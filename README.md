@@ -11,4 +11,4 @@
 
 ### Download starship layout
 [Download config](starship.toml) <br />  
-```https://github.com/KarstenVogt/starship-config/blob/main/starship.toml```
+```wget https://github.com/KarstenVogt/starship-config/blob/main/starship.toml -O ~/.config/starship.toml```
