@@ -10,5 +10,4 @@
 ```echo "eval "\""\$(starship init bash)"\""" >> ~/.bashrc```
 
 ### Download starship layout
-[Download config](starship.toml) <br />  
-```wget https://github.com/KarstenVogt/starship-config/blob/main/starship.toml -O ~/.config/starship.toml```
+[Download config](starship.toml)
