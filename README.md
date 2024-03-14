@@ -1,4 +1,4 @@
-#Setup starship for bash
+# Setup starship for bash
 
 ### Install font from nerdfont.com .e.g. 
 ```https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/JetBrainsMono.zip```
